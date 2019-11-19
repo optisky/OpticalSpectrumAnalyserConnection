@@ -147,6 +147,9 @@ class OSA:
 
 # custom functions
 def exitWin():
+    """
+    exit the window
+    """
     input('Enter any key to exit...\n')
     exit()   
 
